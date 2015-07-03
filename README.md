@@ -1,2 +1,2 @@
 # Android_canvas_map
-在Androi中通过canvas实现地图，地图模型可使用svgdeveloper来绘制，再根据svg数据来画图
+在Androi中通过canvas实现地图，地图模型可使用svgdeveloper来绘制,可以导入地图图片来绘制地图得到svg数据，再根据svg数据来画图
